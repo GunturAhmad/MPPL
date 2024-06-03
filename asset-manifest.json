@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MPPL/static/css/main.bc2c1064.css",
+    "main.js": "/MPPL/static/js/main.c106a95c.js",
+    "index.html": "/MPPL/index.html",
+    "main.bc2c1064.css.map": "/MPPL/static/css/main.bc2c1064.css.map",
+    "main.c106a95c.js.map": "/MPPL/static/js/main.c106a95c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc2c1064.css",
+    "static/js/main.c106a95c.js"
+  ]
+}
